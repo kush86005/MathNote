@@ -1,7 +1,5 @@
 # Math Note Solver ✍️
 
-### 🚀 Live Demo  
-https://math-note-solver-production.up.railway.app
 
 ![App Preview](./Screenshot/Math-note.png)
 
